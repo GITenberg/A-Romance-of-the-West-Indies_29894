@@ -1,0 +1,44 @@
+_repo: A-Romance-of-the-West-Indies_29894
+_version: 0.1.0
+alternative_title: Le morne au diable. English
+contributor:
+  translator:
+    agent_name: Longfellow, Marian
+    aliases:
+    - Lester, Miriam
+    - O'Donoghue, Marian Adèle Longfellow
+    - O'Donoghue, Marian Adele Longfellow
+    - Longfellow, Marianne
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '34233'
+    url: http://www.gutenberg.org/2009/agents/34233
+covers:
+- cover_type: archival
+  image_path: 29894-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sue, Eugène
+    aliases:
+    - Sue, Eugene
+    - Sue, Marie Joseph
+    birthdate: 1804
+    deathdate: 1857
+    gutenberg_agent_id: '1186'
+    url: http://www.gutenberg.org/2009/agents/1186
+    wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
+description: ''
+gutenberg_issued: '2009-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29894'
+  lccn: '98001089'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Privateering -- Caribbean Sea -- Fiction'
+- !lcc 'PQ'
+title: A Romance of the West Indies
+url: http://www.gutenberg.org/ebooks/29894
